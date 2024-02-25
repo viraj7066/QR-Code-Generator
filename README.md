@@ -1,6 +1,4 @@
-# Pramukhraj Dhol Pathak
-Click On this link for preview👉
-https://viraj7066.github.io/Pramukhraj/
+# QR Code Generator
 
 
 
