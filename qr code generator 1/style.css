@@ -1,0 +1,61 @@
+body {
+  background: #ec6f66; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #f3a183,
+    #ec6f66
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #f3a183, #ec6f66);
+}
+
+h1 {
+  color: aqua;
+  font-family: cursive;
+  position: relative;
+  left: 30%;
+  font-size: 50px;
+}
+
+p {
+  margin-left: 110px;
+  font-size: 30px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+#qr-data {
+  border: 2px solid red;
+  border-radius: 4px;
+  margin-left: 50px;
+  height: 50px;
+  width: 80%;
+}
+
+#qrcode {
+  margin-left:35%;
+}
+
+.block {
+  margin: 0 auto;
+  max-width: 900px;
+  padding: 50px 30px;
+}
+.input-res {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  font: 15px/1 "Open Sans", sans-serif;
+  color: #333;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 100%;
+  max-width: 500px;
+  background-color: #ddd;
+  border: none;
+  padding: 10px 11px 11px 11px;
+  border-radius: 3px;
+  box-shadow: none;
+  outline: none;
+  margin: 0;
+  box-sizing: border-box;
+}
